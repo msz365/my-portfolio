@@ -1,5 +1,4 @@
 import Image from "next/image";
-import profilePic from "../public/assets/me.jpg";
 import { AiFillGithub, AiFillLinkedin, AiOutlineWhatsApp } from "react-icons/ai";
 
 import { GoLocation } from "react-icons/go";
@@ -16,7 +15,7 @@ const Sidebar = () => {
   return (
     <div  >
       <Image
-        src={profilePic}
+        src="https://mcusercontent.com/0531ef863c590393c7849acde/images/0be3b314-377c-967f-7d28-2d256f290ad8.jpg"
         alt="Mohammad Suleman Zia Avatar"
         className="mx-auto rounded-full"
         width="150"
