@@ -1,5 +1,5 @@
 import Image from "next/image";
-import profilePic from "../public/me.jpg";
+import profilePic from "../public/assets/me.jpg";
 import { AiFillGithub, AiFillLinkedin, AiOutlineWhatsApp } from "react-icons/ai";
 
 import { GoLocation } from "react-icons/go";
