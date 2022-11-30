@@ -77,6 +77,12 @@ export const languages: Skill[] = [
     name: "Material UI",
     level: "80",
   },
+  {
+    id: "7",
+    Icon: BsCircleFill,
+    name: "GraphQL",
+    level: "80",
+  },
  
 ];
 
